@@ -1,0 +1,70 @@
+.main_col{
+    display: flex;
+    width: 100%;
+    max-width: 100%;
+}
+.pre_col{
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+}
+.pre_col .pre{
+    font-size: 30px;
+    padding: 0 0 1rem 0;
+    color: black;
+}
+.pre_col .pre_info{
+    color: rgba(0, 0, 0, 0.685);
+}
+.pre_col .pre_info .pre_name{
+    font-size: 22px;
+    padding: 0 0 0.3rem 0;
+}
+.pre_col .pre_info .pre_id{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.39);
+    padding: 0 0 1.3rem 0;
+}
+.pre_col .pre_info .pre_cont{
+    display: flex;
+}
+.pre_col .pre_info .pre_cont .pre_level{
+    padding: 0.5rem 3rem 1rem 0;
+}
+.pre_col .pre_info .pre_cont .pre_type{
+    padding: 0.5rem 0 1rem 0;
+}
+.pre_col .pre_info .pre_part{
+    font-size: 20px;
+    color: #00c897;
+    padding: 1rem 0 1rem 0;
+}
+.pre_col .pre_info .pre_d_o{
+    display: flex;
+    padding: 1rem 0 1rem 0;
+}
+.pre_col .pre_info .pre_d_o .pre_dtd{
+    padding: 0 1rem 0 0;
+}
+.pre_col .pre_info .pre_d_o .pre_dtd .pre_date{
+    padding: 0 0 1rem 0;
+}
+.pre_col .pre_info .pre_d_o .pre_dtd .pre_time{
+    padding: 0 0 1rem 0;
+}
+.pre_col .pre_info .pre_d_o .pre_dtd .pre_duration{
+    padding: 0 0 1rem 0;
+}
+.pre_col .pre_info .pre_d_o .pre_org{
+    padding: 0 0 0 2rem;
+}
+.pre_col .pre_info .pre_d_o .pre_org .pre_org_name{
+    
+}
+.pre_col .pre_info .pre_d_o .pre_org .pre_depart{
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.39);
+}
+.pre_col .pre_info .pre_d_o .pre_org .pre_location{
+    padding: 1rem 0 1rem 0;
+}
